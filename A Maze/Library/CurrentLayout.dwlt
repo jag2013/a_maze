@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 11
+  controlID: 116
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -64,8 +64,8 @@ MonoBehaviour:
     y: 0
     width: 672
     height: 1051
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -212,7 +212,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 12
+  controlID: 117
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -236,7 +236,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 13
+  controlID: 118
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -255,8 +255,8 @@ MonoBehaviour:
     y: 0
     width: 1006
     height: 641
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -428,34 +428,34 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/UdacityVR/Scripts
+    - Assets/UdacityVR/Sounds
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/UdacityVR/Scripts
+  - Assets/UdacityVR/Sounds
   m_LastFoldersGridSize: -1
   m_LastProjectPath: Z:\UnityProjects\vrnd-a-maze-starter-project-by-jason-holloway\A
     Maze
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 002a0000
-    m_LastClickedID: 10752
-    m_ExpandedIDs: 0000000082280000fa280000162a00001a2a000000ca9a3bffffff7f
+    m_SelectedIDs: e4280000
+    m_LastClickedID: 10468
+    m_ExpandedIDs: 00000000822800001c2900001a2a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: UdacityVR
+      m_OriginalName: UdacityVR
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 10778
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -496,7 +496,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000fe2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -585,9 +585,9 @@ MonoBehaviour:
     height: 620
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 14d00000
-    m_LastClickedID: 53268
-    m_ExpandedIDs: da4cffff624dffff0e4fffff7860ffff4461fffff062ffff6aefffffa6fbffff00000000562c0000a02d00000a2e0000e830000032630000046b0000f0bc0000
+    m_SelectedIDs: d4cc0000
+    m_LastClickedID: 52436
+    m_ExpandedIDs: 24b2feffa4b2feff5eb4feff3acdfeffbccdfeff64cffeffa6fbffff00000000f62d0000ceb90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -642,9 +642,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.7879953, y: -32.136505, z: 34.908653}
+    m_Target: {x: 2.288145, y: -28.539186, z: 32.432808}
     speed: 2
-    m_Value: {x: 2.7879953, y: -32.136505, z: 34.908653}
+    m_Value: {x: 2.288145, y: -28.539186, z: 32.432808}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -667,13 +667,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.02997136, y: -0.9277683, z: 0.364019, w: 0.07640663}
+    m_Target: {x: 0.005192821, y: 0.98146653, z: -0.18967508, w: 0.026831312}
     speed: 2
-    m_Value: {x: 0.02997136, y: -0.9277683, z: 0.364019, w: 0.07640663}
+    m_Value: {x: 0.005192821, y: 0.98146653, z: -0.18967508, w: 0.026831312}
   m_Size:
-    m_Target: 102.68166
+    m_Target: 106.22029
     speed: 2
-    m_Value: 102.68166
+    m_Value: 106.22029
   m_Ortho:
     m_Target: 0
     speed: 2
