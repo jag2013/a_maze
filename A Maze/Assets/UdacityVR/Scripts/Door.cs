@@ -18,6 +18,7 @@ public class Door : MonoBehaviour
 
     public AudioClip doorOpening;
 
+    public GameObject theBuilding;
 
     void Update() {
         // If the door is opening and it is not fully raised
@@ -46,8 +47,9 @@ public class Door : MonoBehaviour
 
             soundSource.clip = doorOpening;
             soundSource.Play();
+            Destroy(theBuilding.GetComponent<BoxCollider>());
 
-   
+
 
 
 
