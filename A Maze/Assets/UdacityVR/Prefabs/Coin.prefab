@@ -110,7 +110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4259efea429e3458b997fe590ca4b9f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  coinPoof: {fileID: 1000012050171414, guid: 251f98f5c04e5b346b37c68d537e30c6, type: 2}
+  coinPoof: {fileID: 1000012050171414, guid: 7d7874c2d025e54478fc05e881ba05ab, type: 2}
 --- !u!114 &114905261041025448
 MonoBehaviour:
   m_ObjectHideFlags: 1

@@ -7,13 +7,15 @@ public class Coin : MonoBehaviour
     //Create a reference to the CoinPoofPrefab
 
     public GameObject coinPoof;
-    public static int coinsAcquired = 0;
+    public static int coinsCollected = 0;
 
     public void OnCoinClicked() {
         Instantiate(coinPoof, transform.position, Quaternion.Euler(-90, 0, 0));
-        Destroy(gameObject, 0.5f);
-        coinsAcquired = coinsAcquired + 1;
         
+        coinsCollected = coinsCollected + 1;
+
+        Destroy(this.gameObject, 0.1f);
+
     }
 
 }
