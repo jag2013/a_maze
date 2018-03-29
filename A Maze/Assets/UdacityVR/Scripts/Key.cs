@@ -25,7 +25,7 @@ public class Key : MonoBehaviour
         Instantiate(keyPoof, transform.position, Quaternion.Euler(-90, 0, 0));
         theDoor.GetComponent<Door>().Unlock();
         keyCollected = true;
-        Destroy(this.gameObject, 0.1f);
+        Destroy(this.gameObject, 0.25f);
      
     }
 

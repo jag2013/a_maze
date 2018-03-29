@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 11
+  controlID: 115
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -212,7 +212,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 12
+  controlID: 116
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -236,7 +236,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 13
+  controlID: 117
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -505,20 +505,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/UdacityVR/Prefabs
+    - Assets/UdacityVR
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/UdacityVR/Prefabs
+  - Assets/UdacityVR
   m_LastFoldersGridSize: -1
   m_LastProjectPath: Z:\UnityProjects\vrnd-a-maze-starter-project-by-jason-holloway\A
     Maze
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 162a0000
-    m_LastClickedID: 10774
-    m_ExpandedIDs: 00000000822800001c2900001a2a000000ca9a3bffffff7f
+    m_SelectedIDs: 1c2a0000
+    m_LastClickedID: 10780
+    m_ExpandedIDs: 0000000082280000fc2800001e290000182a00001c2a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -546,7 +546,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000822800001c2900001a2a0000
+    m_ExpandedIDs: 00000000822800001e2900001c2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -573,7 +573,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000fe2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -661,24 +661,24 @@ MonoBehaviour:
     width: 225
     height: 630
   m_TreeViewState:
-    scrollPos: {x: 0, y: 224}
-    m_SelectedIDs: 981a0300
-    m_LastClickedID: 203416
-    m_ExpandedIDs: baa9fbff42aafbffe8abfbff506cfcffd86cfcff7e6efcffb636fdff3c37fdffe038fdff6060fdffe660fdff8c62fdff886ffdff0e70fdffb471fdff78c2fdfffec2fdffb6c4fdff76f2fdfff4f2fdff9af4fdffa6fbffff00000000982d0000fa2d00006cbb0000d2150100a0bd0100a6c10100aac10100f8c901009ca7020078ab0200f4ac0200d00503004c070300
+    scrollPos: {x: 0, y: 4496}
+    m_SelectedIDs: 5c840100
+    m_LastClickedID: 99420
+    m_ExpandedIDs: a0fffdff2c00feffd201feff8017feff0c18feffb219feff1e5dfeffaa5dfeff505ffefff682ffff7e83ffff2485ffffa6fbffff0000000072680000ec690000eec2000068c4000074260100ee270100047801007e790100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Left_Door
-      m_OriginalName: Left_Door
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 115850
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -719,9 +719,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 25.745977, y: -23.903515, z: 50.33937}
+    m_Target: {x: -14.526122, y: -21.377712, z: 6.4937897}
     speed: 2
-    m_Value: {x: 25.745977, y: -23.903515, z: 50.33937}
+    m_Value: {x: -14.526122, y: -21.377712, z: 6.4937897}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -744,13 +744,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.02022903, y: -0.9789927, z: 0.16191871, w: -0.12225567}
+    m_Target: {x: 0.0075536035, y: -0.9810513, z: 0.18960683, w: 0.0391223}
     speed: 2
-    m_Value: {x: -0.02022903, y: -0.9789927, z: 0.16191871, w: -0.12225567}
+    m_Value: {x: 0.0075536035, y: -0.9810513, z: 0.18960683, w: 0.0391223}
   m_Size:
-    m_Target: 105.57632
+    m_Target: 147.12735
     speed: 2
-    m_Value: 105.57632
+    m_Value: 147.12735
   m_Ortho:
     m_Target: 0
     speed: 2
